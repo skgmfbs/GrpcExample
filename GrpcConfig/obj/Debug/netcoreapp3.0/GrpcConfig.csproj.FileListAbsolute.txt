@@ -1,0 +1,8 @@
+D:\Personal\Projects\GrpcExample\GrpcConfig\bin\Debug\netcoreapp3.0\GrpcConfig.deps.json
+D:\Personal\Projects\GrpcExample\GrpcConfig\bin\Debug\netcoreapp3.0\GrpcConfig.dll
+D:\Personal\Projects\GrpcExample\GrpcConfig\bin\Debug\netcoreapp3.0\GrpcConfig.pdb
+D:\Personal\Projects\GrpcExample\GrpcConfig\obj\Debug\netcoreapp3.0\GrpcConfig.AssemblyInfoInputs.cache
+D:\Personal\Projects\GrpcExample\GrpcConfig\obj\Debug\netcoreapp3.0\GrpcConfig.AssemblyInfo.cs
+D:\Personal\Projects\GrpcExample\GrpcConfig\obj\Debug\netcoreapp3.0\GrpcConfig.dll
+D:\Personal\Projects\GrpcExample\GrpcConfig\obj\Debug\netcoreapp3.0\GrpcConfig.pdb
+D:\Personal\Projects\GrpcExample\GrpcConfig\obj\Debug\netcoreapp3.0\GrpcConfig.csprojAssemblyReference.cache
