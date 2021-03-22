@@ -1,4 +1,0 @@
-obj\Debug\netcoreapp3.0/Services.cs \
-obj\Debug\netcoreapp3.0/ServicesGrpc.cs: Protos/Definition/company.proto\
- Protos/Definition/country.proto\
- Protos/services.proto
